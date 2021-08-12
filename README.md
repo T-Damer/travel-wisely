@@ -6,6 +6,10 @@
 
 ## Demo
 
+![travel_demo_light](https://user-images.githubusercontent.com/49658988/129183781-523b9d9d-819c-4dcc-ac9a-eb41c39e1b3a.png)
+![travel_demo_dark](https://user-images.githubusercontent.com/49658988/129183789-2968c4f0-6f5d-47a9-949a-e25b342d8ac2.png)
+
+
 ## How to launch locally?
 
 Simply `git clone https://github.com/T-Damer/trawel-wisely.git`\
