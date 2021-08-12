@@ -7,7 +7,8 @@
 ## Demo
 
 ![travel_demo_light](https://user-images.githubusercontent.com/49658988/129183781-523b9d9d-819c-4dcc-ac9a-eb41c39e1b3a.png)
-![travel_demo_dark](https://user-images.githubusercontent.com/49658988/129183789-2968c4f0-6f5d-47a9-949a-e25b342d8ac2.png)
+![site-demo_dark](https://user-images.githubusercontent.com/49658988/129184362-c4622e1f-00b3-499f-a95f-cb3ac7f067b2.png)
+
 
 
 ## How to launch locally?
