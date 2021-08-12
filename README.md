@@ -1,5 +1,7 @@
 # Responsive travel company landing
 
+<img src="assets/img/logo.png" width="300" height="300">
+
 ---
 
 ## Demo
